@@ -1,5 +1,3 @@
-![MasterHead](https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
 <h1 align="center">Hi 👋, I'm Melih</h1>
 <h3 align="center">Junior Web Developer</h3>
 
