@@ -4,22 +4,12 @@
 <h3 align="center">Junior Web Developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=melihsky52&label=Profile%20views&color=0e75b6&style=flat" alt="melihsky52" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy](https://github.com/melihaksy52">
-    <img src="https://img.icons8.com/?size=100&id=0tREDFkScvsm&format=png&color=000000" alt="melihsky52" />
+  <a href="https://github.com/melihaksy52" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=0tREDFkScvsm&format=png&color=000000" alt="melihaksy52 GitHub" width="40" height="40" />
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/mozzers52" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mozzers52?logo=twitter&style=for-the-badge" alt="mozzers52" />
-  </a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Benimle İletişime Geçin / Connect With Me:</h3>
 <p align="left">
   <a href="https://twitter.com/mozzers52" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mozzers52" height="30" width="40" />
@@ -35,7 +25,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Diller ve Araçlar / Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
