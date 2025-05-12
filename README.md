@@ -1,30 +1,30 @@
 <h1 align="center">Hi 👋, I'm Melih</h1>
 <h3 align="center">Junior Web Developer</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/melihaksy52" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=0tREDFkScvsm&format=png&color=000000" alt="melihaksy52 GitHub" width="40" height="40" />
   </a>
 </p>
 
-<h3 align="left">Connect With Me:</h3>
-<p align="left">
-  <a href="https://twitter.com/mozzers52" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mozzers52" height="30" width="40" />
+<h3 align="center">Connect With Me:</h3>
+<p align="center">
+  <a href="https://twitter.com/mozzers52" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mozzers52" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/melihcanaksoy](https://www.linkedin.com/in/melih-can-aksoy-b0429a231/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melihcanaksoy" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/melih-can-aksoy-b0429a231/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melihcanaksoy" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/mlhaksy52" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mlhaksy52" height="30" width="40" />
+  <a href="https://instagram.com/mlhaksy52" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mlhaksy52" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@MozzersX" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mozzersx" height="30" width="40" />
+  <a href="https://www.youtube.com/@MozzersX" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mozzersx" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
   </a>
