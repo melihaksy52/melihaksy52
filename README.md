@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h3 align="left">Benimle İletişime Geçin / Connect With Me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="https://twitter.com/mozzers52" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mozzers52" height="30" width="40" />
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<h3 align="left">Diller ve Araçlar / Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
